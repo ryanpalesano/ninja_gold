@@ -29,7 +29,7 @@ my_proj/templates/index.html
 {{ message }}copy  {{ message|safe }}
 By default, Jinja will convert any html entities with character entities. To prevent this from happening, we used the safe pipe, which you can read about in the Flask documentation and on StackOverflow.
 
- [ ] Create a new Flask project called ninja_gold
+ -[ ] Create a new Flask project called ninja_gold
 
  [ ] Create the template as shown in the wireframe above, with 4 separate forms
 
